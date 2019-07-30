@@ -8,7 +8,7 @@
       <p><b>地址：天津南开橛子宿舍，邮编woaijuezi</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">     
+      <img src="/jz.jpg" width="100%">     
     </td>
   </tr>
 </table>
